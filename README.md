@@ -1,4 +1,5 @@
 ## FACTORS AFFECTING HOUSE PRICES
+[Link to presentation](https://docs.google.com/presentation/d/1X5AKUkKfecgnlAMWa0VvOXkWCgYHlhJ2zEQBVspkMUA/edit?usp=sharing)
 ### Overview
 * Building a multiple linear regression model to help identify factors that greatly affect house prices in order to help improve the real estate business conducted by WON Real Estate Limited 
 ### Business Understanding
