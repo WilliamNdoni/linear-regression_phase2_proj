@@ -5,10 +5,10 @@
 
 WON Real Estate Limited is a real estate company located in the American Northwest that buys and sells houses to its clients.The company would like to know which factors affect house prices the most in order to consider them when buying and selling the houses and make changes to any houses bought,that don't meet these factors.
 
-This project will help identify these factors  and develop a model that can estimate the house prices.The performance of the model will also be evaluated.
+This project will help identify these factors  by developing a  model that can estimate the house prices based on its features.The performance of the model will also be evaluated.
 ### Data understanding
 
-The data used in this project was obtained from [kaggle website](https://www.kaggle.com/datasets/shivachandel/kc-house-data).This dataset contains the prices of houses in the American Northwest and their various features such as the number of bathrooms and the number of bedrooms.Being that the company is also situated in the American Northwest  this data will be of great use 
+The data used in this project was obtained from [kaggle website](https://www.kaggle.com/datasets/shivachandel/kc-house-data).This dataset contains the prices of houses in the American Northwest and their various features such as the number of bathrooms and the number of bedrooms. Being that the company is also situated in the American Northwest  this data will be of great use 
 
 
 The dataset contains twenty one columns that are the features(characteristics) of the houses.The main aim of this project is to estimate the prices of houses that are contained in the 'price' column.
