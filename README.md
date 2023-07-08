@@ -11,7 +11,7 @@ This project will help identify these factors  by developing a  model that can e
 The data used in this project was obtained from [kaggle website](https://www.kaggle.com/datasets/shivachandel/kc-house-data).This dataset contains the prices of houses in the American Northwest and their various features such as the number of bathrooms and the number of bedrooms. Being that the company is also situated in the American Northwest  this data will be of great use 
 
 
-The dataset contains twenty one columns that are the features(characteristics) of the houses.The main aim of this project is to estimate the prices of houses that are contained in the 'price' column.
+The dataset contains twenty one columns that are the features (characteristics) of the houses.The model developed in this project will also estimate the prices of houses that are contained in the 'price' column.
 ### Modelling
 Four linear regression models were created in this project.`Model_1` was used to come up with the reccomendations and conclusions since it explained 54% of the variance in price. This was the highest compared to the rest of the models. The models were as follows:
  - `Baseline model`: This was a simple linear regression model that was used to evaluate the performance of the multiple linear regression models.
